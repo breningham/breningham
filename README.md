@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Bren 👋
 
-- Currently working at Cinch
-- Bit of a nerd, with passions around Web dev, OCI and Linux.
-
+- 🚸 Currently Between Jobs.
+- 👨‍👩‍👧 Proud Family man in a Neurodivergent household 
+- 🤓 Bit of a nerd, with passions around Web dev, OCI and Linux.
+- 😄 Pronouns: He/Him
+- Past (Profressional) Experience with: AWS / CDK / Nx / Angular(2+) / React / Next.js / Typescript / Tailwind / Cypress / Storybook
+- 🌱 Looking to learn: Rust/Golang with focus on making linux applications. 
 <!--
 **breningham/breningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
