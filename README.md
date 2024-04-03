@@ -1,6 +1,6 @@
 ### Hi there, I'm Bren 👋
 
-- 🚸 Currently Between Jobs.
+- 🚸 Currently working at @evosoftio.
 - 👨‍👩‍👧 Proud Family man in a Neurodivergent household 
 - 🤓 Bit of a nerd, with passions around Web dev, OCI and Linux.
 - 😄 Pronouns: He/Him
