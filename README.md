@@ -1,6 +1,6 @@
 ### Hi there, I'm Bren 👋
 
-- 🚸 Currently working at @evosoftio.
+- 🚸 Currently working at clickDealer.
 - 👨‍👩‍👧 Proud Family man in a Neurodivergent household 
 - 🤓 Bit of a nerd, with passions around Web dev, OCI and Linux.
 - 😄 Pronouns: He/Him
