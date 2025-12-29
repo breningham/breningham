@@ -32,5 +32,6 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white)
 
 ---
-
-[![BrenIngham's GitHub stats](https://github-readme-stats.vercel.app/api?username=breningham)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=breningham&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=breningham&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=breningham&layout=compact&theme=dark)
